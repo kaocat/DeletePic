@@ -1,0 +1,15 @@
+c:\users\gimuking\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\ICSharpCode.SharpZipLib.dll
+c:\users\gimuking\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\NPOI.dll
+c:\users\gimuking\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\NPOI.OOXML.dll
+c:\users\gimuking\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\NPOI.OpenXml4Net.dll
+c:\users\gimuking\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\NPOI.OpenXmlFormats.dll
+c:\users\gimuking\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\NPOI.xml
+c:\users\gimuking\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\DeletPic.csproj.ResolveComReference.cache
+c:\users\gimuking\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+c:\users\gimuking\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\DeletPic.csproj.GenerateResource.Cache
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\DeletPic.exe.config
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\DeletPic.exe
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\DeletPic.pdb
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\DeletPic.Properties.Resources.resources
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\DeletPic.exe
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\DeletPic.pdb

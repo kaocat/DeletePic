@@ -1,0 +1,15 @@
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DeletPic.exe.config
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DeletPic.csproj.ResolveComReference.cache
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DeletPic.exe
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DeletPic.pdb
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\NPOI.dll
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\NPOI.OOXML.dll
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\NPOI.xml
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DeletPic.Properties.Resources.resources
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DeletPic.csproj.GenerateResource.Cache
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DeletPic.exe
+C:\Users\GiMuKing\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DeletPic.pdb
